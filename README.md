@@ -15,7 +15,7 @@ ex-: organisation activity
 
 ---
 
-3.Relationship Dtabase Models: Data stored in tables 
+3.Relationship Database Models: Data stored in tables 
                                Rows=Columns
                                Columns=Attributes
 
