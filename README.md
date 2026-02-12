@@ -63,6 +63,10 @@ ex: Amazon Web Services
 
 6) Alternate Key: A candidate key that was not selected as the primary key.
 
+7) Unique Key: A constraint that ensures all values in a column are distinct, similar to a primary key, but it allows a NULL value.
+
+8) Surrogate Key: An artificially generated identifier (usually numeric) with no business meaning, often used when no natural candidate key is suitable.
+
     
     
      
