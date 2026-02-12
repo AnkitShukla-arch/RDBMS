@@ -52,8 +52,16 @@ ex: Amazon Web Services
 ## Types of Keys-:
 
 1) Super Keys: Set of one or more columns that uniquely identify any row within a table .
+  
 2) Candidate Keys: A candidate key is a minimal set of columns (attributes) in a database table that can uniquely identify each record, serving as a potential choice for the primary key.
-3) Composite Keys: A composite key is a primary key in a database formed by combining two or more columns (attributes) that, together, uniquely identify each record (row) in a table, even if individual columns have duplicate values
+  
+3) Composite Keys: A composite key is a primary key in a database formed by combining two or more columns (attributes) that, together, uniquely identify each record (row) in a table, even if individual columns have duplicate values.
+
+4) Primary Key: Uniquely identifies each record in a table; it cannot contain NULL or duplicate values. Only one is allowed per table.
+
+5) Foreign Key: A field in one table that links to the primary key of another table, establishing a relationship and ensuring referential integrity.
+
+6) Alternate Key: A candidate key that was not selected as the primary key.
 
     
     
