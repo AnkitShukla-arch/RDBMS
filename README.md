@@ -23,7 +23,7 @@ ex-: Mysql,oracle,MIcrosoft SQL Server
 
 ---
 
-4.Object Oriented Database MOdel: Data is stored as objects, not tables
+4.Object Oriented Database Model: Data is stored as objects, not tables
                                   These databses are designed to handle complex data structures such as 
 FEATURES-: Objects
            Classes
@@ -33,7 +33,24 @@ ex: ObjectDB
 
 ---
 
-5.Object Relational Database Model:
+5.Object Relational Database Model: Table based structure
+                                    combination of relational+object oriented 
+                                    data is still in tables 
+                                    also supports complex data types and object concepts 
+ex: PostgreSQL , Oracle 
 
+---
+
+6.Cloud Databases: A cloud database operates in a virtual envionment hosted on cloud computing platforms.
+                    It is designed for storing,managing,and executing data over the internet, providing flexibility and scalability.
+ex: Amazon Web Services 
+    Google Cloud Platforms 
+    Microsoft Azure 
+
+---
+
+
+    
+    
      
 
