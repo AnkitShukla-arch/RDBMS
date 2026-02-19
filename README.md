@@ -67,8 +67,7 @@ ex: Amazon Web Services
 
 8) Surrogate Key: An artificially generated identifier (usually numeric) with no business meaning, often used when no natural candidate key is suitable.
 
-
-000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+---
 
 ## E-R Model Concepts-:
 
@@ -76,7 +75,11 @@ ex: Amazon Web Services
 
 2) It represents database schema graphically and can be easily converted into relational tables.
   
-3) They provide a standardized approach to visulaize data relationship and structures. 
+3) They provide a standardized approach to visulaize data relationship and structures.
+
+4) They model real-world objects , making it easy to visualize data structures.
+
+5) E-R diagrams are easy to understand even for non-technical users.
 
 
 
