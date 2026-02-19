@@ -82,6 +82,12 @@ ex: Amazon Web Services
 5) E-R diagrams are easy to understand even for non-technical users.
 
 
+# COMPONENTS OF AN ER DIAGRAM-:
+
+1) Entities: Objects or things in the real world that are distinguishable from other objects. (SYMBOL-: Rectangle box)
+2) Attributes: Characteristics or properties of an entity. (SYMBOL-: Ellipses) 
+3) Relationship: It shows the connections between the entity and the attribute. (SYMBOL-: Diamonds)
+
 
     
     
