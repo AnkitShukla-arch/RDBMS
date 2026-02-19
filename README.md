@@ -1,4 +1,4 @@
-## Types of Database Models-:
+# Types of Database Models-:
 1.Hierarchial Database-: Data organized in tree structure 
                          one to many relationship
                          each child has only one parent 
@@ -69,7 +69,7 @@ ex: Amazon Web Services
 
 ---
 
-## E-R Model Concepts-:
+# E-R Model Concepts-:
 
 1) It is a conceptual framework used to represent the data and relationships in a database .It helps in designing a database by defining entities , their attributes , and the relationships between them.
 
@@ -82,7 +82,7 @@ ex: Amazon Web Services
 5) E-R diagrams are easy to understand even for non-technical users.
 
 
-# COMPONENTS OF AN ER DIAGRAM-:
+## COMPONENTS OF AN ER DIAGRAM-:
 
 1) Entities: Objects or things in the real world that are distinguishable from other objects. (SYMBOL-: Rectangle box)
 2) Attributes: Characteristics or properties of an entity. (SYMBOL-: Ellipses) 
