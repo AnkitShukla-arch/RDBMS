@@ -89,6 +89,14 @@ ex: Amazon Web Services
 2) Attributes: Characteristics or properties of an entity. (SYMBOL-: Ellipses) 
 3) Relationship: It shows the connections between the entity and the attribute. (SYMBOL-: Diamonds)
 
+--> Types of Attributes-:
+
+1) Single Valued Attributes: Holds only one value for specific entity instance.
+2) Multi-Valued Attributes: Can hold more than one value.
+3) Simple Attribute: Cannot be divided further. ex-: Age,Gender.
+4) Composite Attribute: Can be divide into smaller sub-parts. ex-: First Name , Middle Name , Last Name.
+5) Derived Attributes: Values are not stored directly but calculated from other related attributes. ex-: Age(date of birth)
+6) Complex Attribute: A combination of composite and multi-valued attributes.
 
     
     
