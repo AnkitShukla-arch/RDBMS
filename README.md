@@ -4,7 +4,6 @@
                          each child has only one parent 
 ex-: organization strucutre
 
----
 
 2.Network Database-: data organized as graph 
                      supports many to many relationships
@@ -13,7 +12,6 @@ ex-: organisation activity
      telecom networks
      transports network 
 
----
 
 3.Relationship Database Models: Data stored in tables 
                                Rows=Columns
@@ -21,7 +19,6 @@ ex-: organisation activity
 
 ex-: Mysql,oracle,MIcrosoft SQL Server
 
----
 
 4.Object Oriented Database Model: Data is stored as objects, not tables
                                   These databses are designed to handle complex data structures such as 
@@ -31,7 +28,6 @@ FEATURES-: Objects
            Encapsulation 
 ex: ObjectDB
 
----
 
 5.Object Relational Database Model: Table based structure
                                     combination of relational+object oriented 
@@ -39,7 +35,6 @@ ex: ObjectDB
                                     also supports complex data types and object concepts 
 ex: PostgreSQL , Oracle 
 
----
 
 6.Cloud Databases: A cloud database operates in a virtual envionment hosted on cloud computing platforms.
                     It is designed for storing,managing,and executing data over the internet, providing flexibility and scalability.
@@ -47,7 +42,6 @@ ex: Amazon Web Services
     Google Cloud Platforms 
     Microsoft Azure 
 
----
 
 ## Types of Keys-:
 
