@@ -90,24 +90,23 @@ ex: Amazon Web Services
 3) Relationship: It shows the connections between the entity and the attribute. (SYMBOL-: Diamonds)
 
                                                          > Types of Attributes <
+   1) Single Valued Attributes: Holds only one value for specific entity instance.Represented by SINGLE OVAL . || ex-: Age
 
-1) Single Valued Attributes: Holds only one value for specific entity instance.Represented by SINGLE OVAL . || ex-: Age
+   2) Multi-Valued Attributes: Can hold more than one value. Represented by DOUBLE OVALED || ex-: Phone number 
 
-2) Multi-Valued Attributes: Can hold more than one value. Represented by DOUBLE OVALED || ex-: Phone number 
+   3) Simple Attribute: Cannot be divided further into smaller sub-attributes. Represented by SINGLE OVAL ex-: Age,Gender. || ex-: First_Name , Last_Name .
 
-3) Simple Attribute: Cannot be divided further into smaller sub-attributes. Represented by SINGLE OVAL ex-: Age,Gender. || ex-: First_Name , Last_Name , Date_of_Birth
+   4) Composite Attribute: Can be divide into smaller sub-parts. Represented by OVAL || ex-: Address , Street , City , State.
 
-4) Composite Attribute: Can be divide into smaller sub-parts. Represented by OVAL || ex-: Address , Street , City , State.
+   5) Derived Attributes: Values are not stored directly but calculated from other related attributes. || ex-: Age(can be derieved from date_of_birth)
 
-5) Derived Attributes: Values are not stored directly but calculated from other related attributes. || ex-: Age(can be derieved from date_of_birth)
+   6) Complex Attribute: A combination of composite and multi-valued attributes. Represented by SINGLE OVAL.|| ex-: Age , Salary , EmployeeID.
 
-6) Complex Attribute: A combination of composite and multi-valued attributes. Represented by SINGLE OVAL.|| ex-: Age , Salary , EmployeeID.
+   7) Key Attribute: An attribute that uniquely identifies each row (entity) in a table. NO duplicates . Cannot be NULL .  It is represented with UNDERLINED OVAL.         || ex-: __EmployeeID__ , __RollNumber__ .
 
-7) Key Attribute: An attribute that uniquely identifies each row (entity) in a table. NO duplicates . Cannot be NULL .  It is represented with UNDERLINED OVAL. || ex-: __EmployeeID__ , __RollNumber__ .
+   8) Non-Key Attribute: An attribute that does NOT uniquely identify a row. Can have duplicates . Can be NULL . Represented by NON-UNDERLINED OVAL. || ex-: Name,          Age , City.
 
-8) Non-Key Attribute: An attribute that does NOT uniquely identify a row. Can have duplicates . Can be NULL . Represented by NON-UNDERLINED OVAL. || ex-: Name, Age , City.
-
-9) Stored Attribute: Whose value is physically stored in database. Value saved directly in table . Represented by DASHED OVAL. || ex-: DateofBirth , Salary.
+   9) Stored Attribute: Whose value is physically stored in database. Value saved directly in table . Represented by DASHED OVAL. || ex-: DateofBirth , Salary.
 
                                                            > DEGREE OF RELATIONSHIP SET <
 
