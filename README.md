@@ -117,6 +117,8 @@ ex: Amazon Web Services
 
      RULE-3) Strong Entity with Multi-Valued Attributes
 
+     RULE-4) Translating Relationship Set into Tables
+
       
 
       
