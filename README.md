@@ -90,6 +90,7 @@ ex: Amazon Web Services
 3) Relationship: It shows the connections between the entity and the attribute. (SYMBOL-: Diamonds)
 
                                                          > Types of Attributes <
+   
    1) Single Valued Attributes: Holds only one value for specific entity instance.Represented by SINGLE OVAL . || ex-: Age
 
    2) Multi-Valued Attributes: Can hold more than one value. Represented by DOUBLE OVALED || ex-: Phone number 
@@ -108,10 +109,11 @@ ex: Amazon Web Services
 
    9) Stored Attribute: Whose value is physically stored in database. Value saved directly in table . Represented by DASHED OVAL. || ex-: DateofBirth , Salary.
 
-                                                           > DEGREE OF RELATIONSHIP SET <
+                                                        > DEGREE OF RELATIONSHIP SET <
 
-   SAJB CASN CSN
+      
 
+      
 
     
     
