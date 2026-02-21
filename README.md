@@ -91,12 +91,15 @@ ex: Amazon Web Services
 
 --> Types of Attributes-:
 
-1) Single Valued Attributes: Holds only one value for specific entity instance.
-2) Multi-Valued Attributes: Can hold more than one value.
-3) Simple Attribute: Cannot be divided further. ex-: Age,Gender.
-4) Composite Attribute: Can be divide into smaller sub-parts. ex-: First Name , Middle Name , Last Name.
-5) Derived Attributes: Values are not stored directly but calculated from other related attributes. ex-: Age(date of birth)
-6) Complex Attribute: A combination of composite and multi-valued attributes.
+1) Single Valued Attributes: Holds only one value for specific entity instance. || ex-: Age
+2) Multi-Valued Attributes: Can hold more than one value. || ex-: Phone number 
+3) Simple Attribute: Cannot be divided further. ex-: Age,Gender. || ex-:
+4) Composite Attribute: Can be divide into smaller sub-parts. || ex-: First Name , Middle Name , Last Name.
+5) Derived Attributes: Values are not stored directly but calculated from other related attributes. || ex-: Age(date of birth)
+6) Complex Attribute: A combination of composite and multi-valued attributes. || ex-: 
+7) Key Attribute: An attribute that uniquely identifies each row (entity) in a table.
+8) Non-Key Attribute: An attribute that does NOT uniquely identify a row.
+9) Stored Attribute: Whose value is physically stored in database. 
 
     
     
