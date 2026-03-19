@@ -109,7 +109,7 @@ ex: Amazon Web Services
 
    9) Stored Attribute: Whose value is physically stored in database. Value saved directly in table . Represented by DASHED OVAL. || ex-: DateofBirth , Salary.
 
-                                                        > RULES FOR RELATIONSHIP <
+                                                         > RULES FOR RELATIONSHIP <
       
      RULE-1) Stromg Entity with Simple Attributes Only
    
