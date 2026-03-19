@@ -111,13 +111,13 @@ ex: Amazon Web Services
 
                                                          > RULES FOR RELATIONSHIP <
       
-     RULE-1) Stromg Entity with Simple Attributes Only
+     RULE-1) Strong Entity with Simple Attributes Only --> Requires only one table in relational model 
    
-     RULE-2) Strong Entity Set with Composite Attributes 
+     RULE-2) Strong Entity Set with Composite Attributes --> Requires only one table in relational model
 
-     RULE-3) Strong Entity with Multi-Valued Attributes
+     RULE-3) Strong Entity with Multi-Valued Attributes --> 
 
-     RULE-4) Translating Relationship Set into Tables
+     RULE-4) Translating Relationship Set into Tables --> Requires only one table in relational model
 
       
 
