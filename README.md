@@ -119,6 +119,9 @@ ex: Amazon Web Services
 
      RULE-4) Translating Relationship Set into Tables --> Requires only one table in relational model
 
+     RULE-5) For Binary Relationships With Cardinality Ratio --> many to many (m:n) , One to Many (1:n) The relationship and the many table gets combined 
+                                                                 many to one (m:1) Attributes of m and relationship table gets combined , One to One (1:1)
+
       
 
       
