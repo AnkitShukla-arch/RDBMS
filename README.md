@@ -89,7 +89,7 @@ ex: Amazon Web Services
 2) Attributes: Characteristics or properties of an entity. (SYMBOL-: Ellipses) 
 3) Relationship: It shows the connections between the entity and the attribute. (SYMBOL-: Diamonds)
 
-                                                     > Types of Attributes <
+                                                        > Types of Attributes <
    
    1) Single Valued Attributes: Holds only one value for specific entity instance.Represented by SINGLE OVAL . || ex-: Age
 
@@ -109,7 +109,7 @@ ex: Amazon Web Services
 
    9) Stored Attribute: Whose value is physically stored in database. Value saved directly in table . Represented by DASHED OVAL. || ex-: DateofBirth , Salary.
 
-                                                       > RULES FOR RELATIONSHIP <
+                                                        > RULES FOR RELATIONSHIP <
       
      RULE-1) Strong Entity with Simple Attributes Only --> Requires only one table in relational model 
    
